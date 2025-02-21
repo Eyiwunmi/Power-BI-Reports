@@ -60,6 +60,7 @@ The Data-Driven Employee Performance and Retention Dashboard consists of three m
 
 -	 High Risk for Employees with Multiple Companies Worked – Employees who have worked in multiple companies before joining show a higher tendency to leave
 
+<img width="593" alt="Screenshot 2025-02-19 114503" src="https://github.com/user-attachments/assets/70b30062-341d-4455-9c4a-9c7d9bf742eb" />
 
 **Retention page**
 
@@ -80,6 +81,8 @@ This dashboard highlights the importance of relationship satisfaction, stock opt
 **Employee performance page**
 
  This dashboard provides insights into employee performance, job involvement, training impact, and relationship satisfaction across departments. It highlights key performance metrics and trends that can help in optimizing workforce productivity and engagement.
+
+<img width="618" alt="Screenshot 2025-02-19 134532" src="https://github.com/user-attachments/assets/4c99e189-39b2-4021-a21e-84743461c67b" />
 
 **Employee Performance Insights**
 
