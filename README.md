@@ -1,4 +1,4 @@
-# Attrition Dashboard 
+# Employee Performance & Retention Dashboard 
 ---
 ## Table of Content 
 
