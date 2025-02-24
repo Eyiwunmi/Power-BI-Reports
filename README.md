@@ -51,21 +51,36 @@ Total Quantity Sold: $501K
 
 
 **Sales Analysis:**
+
+
+<img width="608" alt="Sales Analysis" src="https://github.com/user-attachments/assets/dff7b580-5c84-4004-aa90-3ab81599bb96" />
+
 Breakdown of total production cost and profit margins.
 Revenue by customer name.
 Performance of different product categories (Microchip, Robotics, Sensor).
 
 **Customer Insights:**
 
+<img width="604" alt="Customer Insights" src="https://github.com/user-attachments/assets/63592a68-226a-4c1a-860d-dbe4d087ddff" />
+
+
 Segments revenue and transactions by industry type (Industrial, Consumer Electronics, Automotive).
 Country-wise revenue performance (Japan, China, Germany, South Korea, USA).
 
  **Inventory Management & Profitability:**
+
  
+ <img width="614" alt="Inventory mg   Profitability" src="https://github.com/user-attachments/assets/be1a7e91-07d2-4783-a0c4-210deca43e7e" />
+
 Comparison of production cost, revenue, and profit across different sectors.
 Quantity of each product category sold per quarter.
 Profitability trends for different product types.
- Market Expansion Analysis:
+
+ **Market Expansion Analysis:**
+
+
+ <img width="616" alt="Market Expansion" src="https://github.com/user-attachments/assets/388a68ff-90fb-4523-992d-3596662c3e67" />
+
 Regional profitability analysis.
 Number of transactions and revenue distribution across different countries.
 
