@@ -58,7 +58,6 @@ The Data-Driven Employee Performance and Retention Dashboard consists of three m
 
 -	Job Level 1 Faces the Highest Attrition (26%) – Entry-level employees are leaving at a significantly higher rate, suggesting onboarding and early-career development programs are crucial.
 
--	 High Risk for Employees with Multiple Companies Worked – Employees who have worked in multiple companies before joining show a higher tendency to leave
 
 <img width="593" alt="Screenshot 2025-02-19 114503" src="https://github.com/user-attachments/assets/70b30062-341d-4455-9c4a-9c7d9bf742eb" />
 
