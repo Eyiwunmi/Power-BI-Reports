@@ -1,4 +1,4 @@
-# E-Commerce Performance Isights Dashboard
+# E-Commerce Performance Insights Dashboard
 ---
 
 ## Table of Content
